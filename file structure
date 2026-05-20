@@ -1,0 +1,15 @@
+StudentManagementSystem/
+│
+├── src/
+│   └── studentmanagement/
+│       ├── Login.java
+│       ├── AddStudent.java
+│       └── DBConnection.java
+│
+├── database/
+│   └── studentdb.sql
+│
+├── lib/
+│   └── mysql-connector-j.jar
+│
+└── README.md
